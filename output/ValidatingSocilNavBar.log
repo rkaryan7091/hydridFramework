@@ -1,0 +1,52 @@
+02:08:45.144 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Browser Opened
+02:08:55.014 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Navigate to Url : https://www.bigsmall.in/
+02:08:55.025 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on Facebook Logo
+02:08:58.751 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+02:08:58.758 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - page navigated to facebook site
+02:09:03.794 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - driver navigate back to bigsmall site
+02:09:03.796 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on youtube Logo
+02:09:14.078 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+02:09:14.090 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - page navigated to youtube site
+02:09:17.586 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - driver navigate back to bigsmall site
+02:09:17.587 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on twitter Logo
+02:09:26.739 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+02:09:26.746 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - page navigated to twitter site
+02:09:32.109 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - driver navigate back to bigsmall site
+02:50:22.973 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Browser Opened
+02:50:43.312 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Navigate to Url : https://www.bigsmall.in/
+02:50:43.345 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on Facebook Logo
+02:50:58.949 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+02:50:58.961 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - page navigated to facebook site
+02:52:14.599 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - driver navigate back to bigsmall site
+02:52:14.599 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on youtube Logo
+02:52:27.043 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+02:52:27.107 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - page navigated to youtube site
+02:52:32.683 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - driver navigate back to bigsmall site
+02:52:32.683 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on twitter Logo
+02:52:37.995 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+15:11:23.915 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Browser Opened
+15:11:38.719 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Navigate to Url : https://www.bigsmall.in/
+15:11:38.757 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on Facebook Logo
+15:11:42.208 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+15:11:42.220 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - page navigated to facebook site
+15:11:46.776 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - driver navigate back to bigsmall site
+15:11:46.778 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on youtube Logo
+15:12:06.899 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+15:12:06.968 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - page navigated to youtube site
+15:12:12.342 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - driver navigate back to bigsmall site
+15:12:12.343 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on twitter Logo
+15:12:19.656 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+15:47:38.353 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Browser Opened
+15:47:46.485 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Navigate to Url : https://www.bigsmall.in/
+15:47:46.496 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on Facebook Logo
+15:47:49.416 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+15:47:49.421 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - page navigated to facebook site
+15:47:51.523 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - driver navigate back to bigsmall site
+15:47:51.523 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on youtube Logo
+15:48:00.590 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+15:48:00.606 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - page navigated to youtube site
+15:48:03.243 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - driver navigate back to bigsmall site
+15:48:03.244 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Clicking on twitter Logo
+15:48:13.631 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - Getting current page title and verifing it
+15:48:16.637 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - page navigated to twitter site
+15:48:19.474 [main] INFO  com.mindtree.runner.ValidatingSocilNavBar - driver navigate back to bigsmall site

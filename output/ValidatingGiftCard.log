@@ -1,0 +1,20 @@
+02:05:30.122 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Browser Opened
+02:05:38.729 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Navigate to Url : https://www.bigsmall.in/
+02:05:38.747 [main] INFO  com.mindtree.runner.ValidatingGiftCard - clicking on GiftCard
+02:05:45.004 [main] INFO  com.mindtree.runner.ValidatingGiftCard - validating Gift Card Page
+02:05:45.162 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Gift card Validate passed
+02:44:31.884 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Browser Opened
+02:44:43.107 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Navigate to Url : https://www.bigsmall.in/
+02:44:43.153 [main] INFO  com.mindtree.runner.ValidatingGiftCard - clicking on GiftCard
+02:44:52.501 [main] INFO  com.mindtree.runner.ValidatingGiftCard - validating Gift Card Page
+02:44:52.806 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Gift card Validate passed
+15:08:23.617 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Browser Opened
+15:08:45.031 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Navigate to Url : https://www.bigsmall.in/
+15:08:45.064 [main] INFO  com.mindtree.runner.ValidatingGiftCard - clicking on GiftCard
+15:08:52.793 [main] INFO  com.mindtree.runner.ValidatingGiftCard - validating Gift Card Page
+15:08:53.166 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Gift card Validate passed
+15:45:37.031 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Browser Opened
+15:45:44.578 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Navigate to Url : https://www.bigsmall.in/
+15:45:44.591 [main] INFO  com.mindtree.runner.ValidatingGiftCard - clicking on GiftCard
+15:45:49.109 [main] INFO  com.mindtree.runner.ValidatingGiftCard - validating Gift Card Page
+15:45:49.305 [main] INFO  com.mindtree.runner.ValidatingGiftCard - Gift card Validate passed

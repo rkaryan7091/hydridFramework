@@ -1,0 +1,23 @@
+14:04:47.742 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Browser Opened
+14:05:20.366 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Navigate to Url : https://www.bigsmall.in/
+14:05:20.374 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Title Validating Passed
+14:27:13.784 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Browser Opened
+14:27:33.371 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Navigate to Url : https://www.bigsmall.in/
+14:27:33.386 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Title Validating Passed
+01:59:41.704 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Browser Opened
+02:00:19.117 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Navigate to Url : https://www.bigsmall.in/
+02:00:19.127 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Title Validating Passed
+02:29:24.924 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Browser Opened
+02:29:52.365 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Navigate to Url : https://www.bigsmall.in/
+02:29:52.398 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Title Validating Passed
+02:37:26.790 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Browser Opened
+02:38:01.779 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Navigate to Url : https://www.bigsmall.in/
+02:38:01.813 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Title Validating Passed
+15:05:51.035 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Browser Opened
+15:06:05.899 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Navigate to Url : https://www.bigsmall.in/
+15:06:06.070 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Home Page logo is displayed
+15:06:06.167 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Navigation Bar is Displayed
+15:43:48.799 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Browser Opened
+15:44:03.927 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Navigate to Url : https://www.bigsmall.in/
+15:44:03.993 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Home Page logo is displayed
+15:44:04.029 [main] INFO  com.mindtree.runner.verifyHomePageTitle - Navigation Bar is Displayed

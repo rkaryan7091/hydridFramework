@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="8" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-22T15:43:45 IST" name="Suite" finished-at="2021-11-22T15:48:23 IST" duration-ms="278604">
+    <groups>
+    </groups>
+    <test started-at="2021-11-22T15:43:45 IST" name="Test" finished-at="2021-11-22T15:48:23 IST" duration-ms="278604">
+      <class name="com.mindtree.runner.ValidatingSocilNavBar">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.ValidatingSocilNavBar@f31c0c6]" started-at="2021-11-22T15:47:36 IST" name="OpenBrowser" finished-at="2021-11-22T15:47:38 IST" duration-ms="1685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="verifySocialLinks()[pri:0, instance:com.mindtree.runner.ValidatingSocilNavBar@f31c0c6]" started-at="2021-11-22T15:47:38 IST" name="verifySocialLinks" finished-at="2021-11-22T15:48:19 IST" duration-ms="41122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySocialLinks -->
+      </class> <!-- com.mindtree.runner.ValidatingSocilNavBar -->
+      <class name="com.mindtree.runner.AddingProductToWishList">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.AddingProductToWishList@54afd745]" started-at="2021-11-22T15:45:05 IST" name="OpenBrowser" finished-at="2021-11-22T15:45:06 IST" duration-ms="1592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="wishListProduct()[pri:0, instance:com.mindtree.runner.AddingProductToWishList@54afd745]" started-at="2021-11-22T15:45:06 IST" name="wishListProduct" finished-at="2021-11-22T15:45:31 IST" duration-ms="24376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishListProduct -->
+      </class> <!-- com.mindtree.runner.AddingProductToWishList -->
+      <class name="com.mindtree.runner.validatingPriceofProduct">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.validatingPriceofProduct@10027fc9]" started-at="2021-11-22T15:44:43 IST" name="OpenBrowser" finished-at="2021-11-22T15:44:44 IST" duration-ms="1635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="validatingPrice()[pri:0, instance:com.mindtree.runner.validatingPriceofProduct@10027fc9]" started-at="2021-11-22T15:44:44 IST" name="validatingPrice" finished-at="2021-11-22T15:45:00 IST" duration-ms="16036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingPrice -->
+      </class> <!-- com.mindtree.runner.validatingPriceofProduct -->
+      <class name="com.mindtree.runner.verifyHomePageTitle">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.verifyHomePageTitle@3deb2326]" started-at="2021-11-22T15:43:45 IST" name="OpenBrowser" finished-at="2021-11-22T15:43:48 IST" duration-ms="3311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="verifyTitle()[pri:0, instance:com.mindtree.runner.verifyHomePageTitle@3deb2326]" started-at="2021-11-22T15:43:48 IST" name="verifyTitle" finished-at="2021-11-22T15:44:04 IST" duration-ms="15277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- com.mindtree.runner.verifyHomePageTitle -->
+      <class name="com.mindtree.runner.validateLoginPage">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.validateLoginPage@5dda6f9]" started-at="2021-11-22T15:44:08 IST" name="OpenBrowser" finished-at="2021-11-22T15:44:10 IST" duration-ms="1588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="loginPage()[pri:0, instance:com.mindtree.runner.validateLoginPage@5dda6f9]" started-at="2021-11-22T15:44:10 IST" name="loginPage" finished-at="2021-11-22T15:44:38 IST" duration-ms="28470" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='grid']//h3"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MT-5CD12777KZ', ip: '192.168.42.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\M1073161\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54763}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e3cf23689e00a775502f375f2c3268b7
+*** Element info: {Using=xpath, value=//div[@class='grid']//h3}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='grid']//h3"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MT-5CD12777KZ', ip: '192.168.42.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\M1073161\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54763}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e3cf23689e00a775502f375f2c3268b7
+*** Element info: {Using=xpath, value=//div[@class='grid']//h3}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.mindtree.pageobjects.LoginPageLC.getAccountDetail(LoginPageLC.java:22)
+at com.mindtree.runner.validateLoginPage.loginPage(validateLoginPage.java:51)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+      </class> <!-- com.mindtree.runner.validateLoginPage -->
+      <class name="com.mindtree.runner.AddingProductToCart">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.AddingProductToCart@fff25f1]" started-at="2021-11-22T15:45:53 IST" name="OpenBrowser" finished-at="2021-11-22T15:45:55 IST" duration-ms="1593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="validatingCart()[pri:0, instance:com.mindtree.runner.AddingProductToCart@fff25f1]" started-at="2021-11-22T15:45:55 IST" name="validatingCart" finished-at="2021-11-22T15:46:23 IST" duration-ms="27995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingCart -->
+      </class> <!-- com.mindtree.runner.AddingProductToCart -->
+      <class name="com.mindtree.runner.ValidationContantUs">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.ValidationContantUs@5a021cb9]" started-at="2021-11-22T15:46:48 IST" name="OpenBrowser" finished-at="2021-11-22T15:46:50 IST" duration-ms="1698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="validatingContactus()[pri:0, instance:com.mindtree.runner.ValidationContantUs@5a021cb9]" started-at="2021-11-22T15:46:50 IST" name="validatingContactus" finished-at="2021-11-22T15:47:06 IST" duration-ms="16162" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because the return value of "com.mindtree.pageobjects.ContactUsLC.getThanksMessage()" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because the return value of "com.mindtree.pageobjects.ContactUsLC.getThanksMessage()" is null
+at com.mindtree.runner.ValidationContantUs.validatingContactus(ValidationContantUs.java:46)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingContactus -->
+      </class> <!-- com.mindtree.runner.ValidationContantUs -->
+      <class name="com.mindtree.runner.validationAllofItPage">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.validationAllofItPage@51768776]" started-at="2021-11-22T15:47:10 IST" name="OpenBrowser" finished-at="2021-11-22T15:47:12 IST" duration-ms="1652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="validatingPageNavigation()[pri:0, instance:com.mindtree.runner.validationAllofItPage@51768776]" started-at="2021-11-22T15:47:12 IST" name="validatingPageNavigation" finished-at="2021-11-22T15:47:32 IST" duration-ms="19653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingPageNavigation -->
+      </class> <!-- com.mindtree.runner.validationAllofItPage -->
+      <class name="com.mindtree.runner.NavigtionBar">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.NavigtionBar@c00fff0]" started-at="2021-11-22T15:46:27 IST" name="OpenBrowser" finished-at="2021-11-22T15:46:29 IST" duration-ms="1580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="selectingProduct()[pri:0, instance:com.mindtree.runner.NavigtionBar@c00fff0]" started-at="2021-11-22T15:46:29 IST" name="selectingProduct" finished-at="2021-11-22T15:46:43 IST" duration-ms="14655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectingProduct -->
+      </class> <!-- com.mindtree.runner.NavigtionBar -->
+      <class name="com.mindtree.runner.ValidatingGiftCard">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.ValidatingGiftCard@677dbd89]" started-at="2021-11-22T15:45:35 IST" name="OpenBrowser" finished-at="2021-11-22T15:45:37 IST" duration-ms="1641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="verifyGiftCardOption()[pri:0, instance:com.mindtree.runner.ValidatingGiftCard@677dbd89]" started-at="2021-11-22T15:45:37 IST" name="verifyGiftCardOption" finished-at="2021-11-22T15:45:49 IST" duration-ms="12274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGiftCardOption -->
+      </class> <!-- com.mindtree.runner.ValidatingGiftCard -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

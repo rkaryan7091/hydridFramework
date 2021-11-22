@@ -1,0 +1,40 @@
+14:06:12.917 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Browser Opened
+14:06:39.832 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Navigate to Url : https://www.bigsmall.in/
+14:07:04.547 [main] INFO  com.mindtree.runner.validatingPriceofProduct - seanding keys to search box and clicking enter Button
+14:07:04.683 [main] INFO  com.mindtree.runner.validatingPriceofProduct - getting price from search list of first product : Price : Rs. 599
+14:07:17.589 [main] INFO  com.mindtree.runner.validatingPriceofProduct - selecting first product
+14:07:17.808 [main] INFO  com.mindtree.runner.validatingPriceofProduct - getting price from product page
+14:07:17.809 [main] INFO  com.mindtree.runner.validatingPriceofProduct - matching price
+14:07:17.809 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Price Matched
+02:04:28.194 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Browser Opened
+02:04:37.386 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Navigate to Url : https://www.bigsmall.in/
+02:04:43.087 [main] INFO  com.mindtree.runner.validatingPriceofProduct - seanding keys to search box and clicking enter Button
+02:04:43.182 [main] INFO  com.mindtree.runner.validatingPriceofProduct - getting price from search list of first product : Price : Rs. 599
+02:04:50.320 [main] INFO  com.mindtree.runner.validatingPriceofProduct - selecting first product
+02:04:50.527 [main] INFO  com.mindtree.runner.validatingPriceofProduct - getting price from product page
+02:04:50.527 [main] INFO  com.mindtree.runner.validatingPriceofProduct - matching price
+02:04:50.528 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Price Matched
+02:41:55.801 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Browser Opened
+02:43:33.755 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Navigate to Url : https://www.bigsmall.in/
+02:43:39.615 [main] INFO  com.mindtree.runner.validatingPriceofProduct - seanding keys to search box and clicking enter Button
+02:43:39.853 [main] INFO  com.mindtree.runner.validatingPriceofProduct - getting price from search list of first product : Price : Rs. 599
+02:43:46.798 [main] INFO  com.mindtree.runner.validatingPriceofProduct - selecting first product
+02:43:47.174 [main] INFO  com.mindtree.runner.validatingPriceofProduct - getting price from product page
+02:43:47.175 [main] INFO  com.mindtree.runner.validatingPriceofProduct - matching price
+02:43:47.175 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Price Matched
+15:06:55.753 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Browser Opened
+15:07:09.267 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Navigate to Url : https://www.bigsmall.in/
+15:07:16.987 [main] INFO  com.mindtree.runner.validatingPriceofProduct - seanding keys to search box and clicking enter Button
+15:07:17.084 [main] INFO  com.mindtree.runner.validatingPriceofProduct - getting price from search list of first product : Price : Rs. 599
+15:07:27.730 [main] INFO  com.mindtree.runner.validatingPriceofProduct - selecting first product
+15:07:28.048 [main] INFO  com.mindtree.runner.validatingPriceofProduct - getting price from product page
+15:07:28.048 [main] INFO  com.mindtree.runner.validatingPriceofProduct - matching price
+15:07:28.048 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Price Matched
+15:44:44.676 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Browser Opened
+15:44:51.997 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Navigate to Url : https://www.bigsmall.in/
+15:44:55.914 [main] INFO  com.mindtree.runner.validatingPriceofProduct - seanding keys to search box and clicking enter Button
+15:44:56.032 [main] INFO  com.mindtree.runner.validatingPriceofProduct - getting price from search list of first product : Price : Rs. 599
+15:45:00.550 [main] INFO  com.mindtree.runner.validatingPriceofProduct - selecting first product
+15:45:00.711 [main] INFO  com.mindtree.runner.validatingPriceofProduct - getting price from product page
+15:45:00.711 [main] INFO  com.mindtree.runner.validatingPriceofProduct - matching price
+15:45:00.712 [main] INFO  com.mindtree.runner.validatingPriceofProduct - Price Matched

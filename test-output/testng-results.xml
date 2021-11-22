@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-18T01:59:39 IST" name="Suite" finished-at="2021-11-18T02:09:32 IST" duration-ms="592792">
+    <groups>
+    </groups>
+    <test started-at="2021-11-18T01:59:39 IST" name="Test" finished-at="2021-11-18T02:09:32 IST" duration-ms="592792">
+      <class name="com.mindtree.runner.ValidatingSocilNavBar">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.ValidatingSocilNavBar@29caf222]" started-at="2021-11-18T02:08:41 IST" name="OpenBrowser" finished-at="2021-11-18T02:08:45 IST" duration-ms="3233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="verifySocialLinks()[pri:0, instance:com.mindtree.runner.ValidatingSocilNavBar@29caf222]" started-at="2021-11-18T02:08:45 IST" name="verifySocialLinks" finished-at="2021-11-18T02:09:32 IST" duration-ms="46967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySocialLinks -->
+      </class> <!-- com.mindtree.runner.ValidatingSocilNavBar -->
+      <class name="com.mindtree.runner.AddingProductToWishList">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.AddingProductToWishList@27f9e982]" started-at="2021-11-18T02:04:50 IST" name="OpenBrowser" finished-at="2021-11-18T02:04:53 IST" duration-ms="2248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="wishListProduct()[pri:0, instance:com.mindtree.runner.AddingProductToWishList@27f9e982]" started-at="2021-11-18T02:04:53 IST" name="wishListProduct" finished-at="2021-11-18T02:05:27 IST" duration-ms="34782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishListProduct -->
+      </class> <!-- com.mindtree.runner.AddingProductToWishList -->
+      <class name="com.mindtree.runner.validatingPriceofProduct">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.validatingPriceofProduct@2d35442b]" started-at="2021-11-18T02:04:26 IST" name="OpenBrowser" finished-at="2021-11-18T02:04:28 IST" duration-ms="1706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="validatingPrice()[pri:0, instance:com.mindtree.runner.validatingPriceofProduct@2d35442b]" started-at="2021-11-18T02:04:28 IST" name="validatingPrice" finished-at="2021-11-18T02:04:50 IST" duration-ms="22336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingPrice -->
+      </class> <!-- com.mindtree.runner.validatingPriceofProduct -->
+      <class name="com.mindtree.runner.verifyHomePageTitle">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.verifyHomePageTitle@600b0b7]" started-at="2021-11-18T01:59:39 IST" name="OpenBrowser" finished-at="2021-11-18T01:59:41 IST" duration-ms="2059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="verifyTitle()[pri:0, instance:com.mindtree.runner.verifyHomePageTitle@600b0b7]" started-at="2021-11-18T01:59:41 IST" name="verifyTitle" finished-at="2021-11-18T02:00:19 IST" duration-ms="37448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- com.mindtree.runner.verifyHomePageTitle -->
+      <class name="com.mindtree.runner.validateLoginPage">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.validateLoginPage@ecf9fb3]" started-at="2021-11-18T02:00:19 IST" name="OpenBrowser" finished-at="2021-11-18T02:00:21 IST" duration-ms="1680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="loginPage()[pri:0, instance:com.mindtree.runner.validateLoginPage@ecf9fb3]" started-at="2021-11-18T02:00:21 IST" name="loginPage" finished-at="2021-11-18T02:04:26 IST" duration-ms="245099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+      </class> <!-- com.mindtree.runner.validateLoginPage -->
+      <class name="com.mindtree.runner.AddingProductToCart">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.AddingProductToCart@37d3d232]" started-at="2021-11-18T02:05:45 IST" name="OpenBrowser" finished-at="2021-11-18T02:05:47 IST" duration-ms="2117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="validatingCart()[pri:0, instance:com.mindtree.runner.AddingProductToCart@37d3d232]" started-at="2021-11-18T02:05:47 IST" name="validatingCart" finished-at="2021-11-18T02:06:12 IST" duration-ms="24575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingCart -->
+      </class> <!-- com.mindtree.runner.AddingProductToCart -->
+      <class name="com.mindtree.runner.ValidationContantUs">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.ValidationContantUs@2b46a8c1]" started-at="2021-11-18T02:07:49 IST" name="OpenBrowser" finished-at="2021-11-18T02:07:51 IST" duration-ms="2175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="validatingContactus()[pri:0, instance:com.mindtree.runner.ValidationContantUs@2b46a8c1]" started-at="2021-11-18T02:07:51 IST" name="validatingContactus" finished-at="2021-11-18T02:08:11 IST" duration-ms="19688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingContactus -->
+      </class> <!-- com.mindtree.runner.ValidationContantUs -->
+      <class name="com.mindtree.runner.validationAllofItPage">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.validationAllofItPage@1d572e62]" started-at="2021-11-18T02:08:11 IST" name="OpenBrowser" finished-at="2021-11-18T02:08:13 IST" duration-ms="2441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="validatingPageNavigation()[pri:0, instance:com.mindtree.runner.validationAllofItPage@1d572e62]" started-at="2021-11-18T02:08:13 IST" name="validatingPageNavigation" finished-at="2021-11-18T02:08:41 IST" duration-ms="27184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingPageNavigation -->
+      </class> <!-- com.mindtree.runner.validationAllofItPage -->
+      <class name="com.mindtree.runner.ValidatingGiftCard">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.ValidatingGiftCard@4593ff34]" started-at="2021-11-18T02:05:27 IST" name="OpenBrowser" finished-at="2021-11-18T02:05:30 IST" duration-ms="2139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="verifyTitle()[pri:0, instance:com.mindtree.runner.ValidatingGiftCard@4593ff34]" started-at="2021-11-18T02:05:30 IST" name="verifyTitle" finished-at="2021-11-18T02:05:45 IST" duration-ms="15042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- com.mindtree.runner.ValidatingGiftCard -->
+      <class name="com.mindtree.runner.NavigtionBar">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mindtree.runner.NavigtionBar@30c0ccff]" started-at="2021-11-18T02:06:12 IST" name="OpenBrowser" finished-at="2021-11-18T02:06:14 IST" duration-ms="2467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="selectingProduct()[pri:0, instance:com.mindtree.runner.NavigtionBar@30c0ccff]" started-at="2021-11-18T02:06:14 IST" name="selectingProduct" finished-at="2021-11-18T02:07:48 IST" duration-ms="94051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectingProduct -->
+      </class> <!-- com.mindtree.runner.NavigtionBar -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

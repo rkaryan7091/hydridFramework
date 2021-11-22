@@ -1,0 +1,32 @@
+02:07:51.425 [main] INFO  com.mindtree.runner.ValidationContantUs - Browser Opened
+02:08:00.412 [main] INFO  com.mindtree.runner.ValidationContantUs - Navigate to Url : https://www.bigsmall.in/
+02:08:00.414 [main] INFO  com.mindtree.runner.ValidationContantUs - Clicking on Contact Us
+02:08:03.828 [main] INFO  com.mindtree.runner.ValidationContantUs - Navigated TO Contact us Page
+02:08:03.828 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Name
+02:08:03.921 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Email
+02:08:03.993 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Message
+02:08:04.094 [main] INFO  com.mindtree.runner.ValidationContantUs - clicking on Send Button
+02:48:46.036 [main] INFO  com.mindtree.runner.ValidationContantUs - Browser Opened
+02:48:57.431 [main] INFO  com.mindtree.runner.ValidationContantUs - Navigate to Url : https://www.bigsmall.in/
+02:48:57.449 [main] INFO  com.mindtree.runner.ValidationContantUs - Clicking on Contact Us
+02:49:08.434 [main] INFO  com.mindtree.runner.ValidationContantUs - Navigated TO Contact us Page
+02:49:08.435 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Name
+02:49:08.974 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Email
+02:49:09.197 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Message
+02:49:09.514 [main] INFO  com.mindtree.runner.ValidationContantUs - clicking on Send Button
+15:10:18.309 [main] INFO  com.mindtree.runner.ValidationContantUs - Browser Opened
+15:10:32.443 [main] INFO  com.mindtree.runner.ValidationContantUs - Navigate to Url : https://www.bigsmall.in/
+15:10:32.462 [main] INFO  com.mindtree.runner.ValidationContantUs - Clicking on Contact Us
+15:10:36.986 [main] INFO  com.mindtree.runner.ValidationContantUs - Navigated TO Contact us Page
+15:10:36.987 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Name
+15:10:37.297 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Email
+15:10:37.479 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Message
+15:10:37.724 [main] INFO  com.mindtree.runner.ValidationContantUs - clicking on Send Button
+15:46:50.282 [main] INFO  com.mindtree.runner.ValidationContantUs - Browser Opened
+15:46:58.114 [main] INFO  com.mindtree.runner.ValidationContantUs - Navigate to Url : https://www.bigsmall.in/
+15:46:58.121 [main] INFO  com.mindtree.runner.ValidationContantUs - Clicking on Contact Us
+15:47:01.104 [main] INFO  com.mindtree.runner.ValidationContantUs - Navigated TO Contact us Page
+15:47:01.105 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Name
+15:47:01.299 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Email
+15:47:01.375 [main] INFO  com.mindtree.runner.ValidationContantUs - Entering Message
+15:47:01.478 [main] INFO  com.mindtree.runner.ValidationContantUs - clicking on Send Button

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.mindtree.utilities.Listeners" />
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="com.mindtree.runner.verifyHomePageTitle" />
+			<class name="com.mindtree.runner.validateLoginPage" />
+			<class name="com.mindtree.runner.validatingPriceofProduct" />
+			<class name="com.mindtree.runner.AddingProductToWishList" />
+			<class name="com.mindtree.runner.ValidatingGiftCard" />
+			<class name="com.mindtree.runner.AddingProductToCart" />
+			<class name="com.mindtree.runner.NavigtionBar" />
+			<class name="com.mindtree.runner.ValidationContantUs" />
+			<class name="com.mindtree.runner.validationAllofItPage" />
+			<class name="com.mindtree.runner.ValidatingSocilNavBar" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

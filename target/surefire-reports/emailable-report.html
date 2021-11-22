@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="8">Suite</th></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">8</td><td class="num">0</td><td class="num">0</td><td class="num attn">2</td><td class="num">278,604</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.mindtree.runner.ValidationContantUs</td><td><a href="#m0">validatingContactus</a></td><td rowspan="1">1637576210281</td><td rowspan="1">16162</td></tr><tr class="failedodd"><td rowspan="1">com.mindtree.runner.validateLoginPage</td><td><a href="#m1">loginPage</a></td><td rowspan="1">1637576050214</td><td rowspan="1">28470</td></tr><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.mindtree.runner.AddingProductToCart</td><td><a href="#m2">validatingCart</a></td><td rowspan="1">1637576155278</td><td rowspan="1">27995</td></tr><tr class="passedodd"><td rowspan="1">com.mindtree.runner.AddingProductToWishList</td><td><a href="#m3">wishListProduct</a></td><td rowspan="1">1637576106649</td><td rowspan="1">24376</td></tr><tr class="passedeven"><td rowspan="1">com.mindtree.runner.NavigtionBar</td><td><a href="#m4">selectingProduct</a></td><td rowspan="1">1637576189319</td><td rowspan="1">14655</td></tr><tr class="passedodd"><td rowspan="1">com.mindtree.runner.ValidatingGiftCard</td><td><a href="#m5">verifyGiftCardOption</a></td><td rowspan="1">1637576137031</td><td rowspan="1">12274</td></tr><tr class="passedeven"><td rowspan="1">com.mindtree.runner.ValidatingSocilNavBar</td><td><a href="#m6">verifySocialLinks</a></td><td rowspan="1">1637576258352</td><td rowspan="1">41122</td></tr><tr class="passedodd"><td rowspan="1">com.mindtree.runner.validatingPriceofProduct</td><td><a href="#m7">validatingPrice</a></td><td rowspan="1">1637576084676</td><td rowspan="1">16036</td></tr><tr class="passedeven"><td rowspan="1">com.mindtree.runner.validationAllofItPage</td><td><a href="#m8">validatingPageNavigation</a></td><td rowspan="1">1637576232437</td><td rowspan="1">19653</td></tr><tr class="passedodd"><td rowspan="1">com.mindtree.runner.verifyHomePageTitle</td><td><a href="#m9">verifyTitle</a></td><td rowspan="1">1637576028752</td><td rowspan="1">15277</td></tr></tbody>
+</table>
+<h2>Test</h2><h3 id="m0">com.mindtree.runner.ValidationContantUs#validatingContactus</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.NullPointerException: Cannot invoke &quot;org.openqa.selenium.WebElement.isDisplayed()&quot; because the return value of &quot;com.mindtree.pageobjects.ContactUsLC.getThanksMessage()&quot; is null
+	at com.mindtree.runner.ValidationContantUs.validatingContactus(ValidationContantUs.java:46)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.mindtree.runner.validateLoginPage#loginPage</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class=&apos;grid&apos;]//h3&quot;}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;MT-5CD12777KZ&apos;, ip: &apos;192.168.42.66&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\M1073161\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54763}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e3cf23689e00a775502f375f2c3268b7
+*** Element info: {Using=xpath, value=//div[@class=&apos;grid&apos;]//h3}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at com.mindtree.pageobjects.LoginPageLC.getAccountDetail(LoginPageLC.java:22)
+	at com.mindtree.runner.validateLoginPage.loginPage(validateLoginPage.java:51)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 36 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.mindtree.runner.AddingProductToCart#validatingCart</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.mindtree.runner.AddingProductToWishList#wishListProduct</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.mindtree.runner.NavigtionBar#selectingProduct</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">com.mindtree.runner.ValidatingGiftCard#verifyGiftCardOption</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">com.mindtree.runner.ValidatingSocilNavBar#verifySocialLinks</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">com.mindtree.runner.validatingPriceofProduct#validatingPrice</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">com.mindtree.runner.validationAllofItPage#validatingPageNavigation</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m9">com.mindtree.runner.verifyHomePageTitle#verifyTitle</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

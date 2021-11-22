@@ -1,0 +1,12 @@
+15:10:52.222 [main] INFO  com.mindtree.runner.validationAllofItPage - Browser Opened
+15:11:03.330 [main] INFO  com.mindtree.runner.validationAllofItPage - Navigate to Url : https://www.bigsmall.in/
+15:11:03.359 [main] INFO  com.mindtree.runner.validationAllofItPage - Clicking on ALL OF IT in nav Bar
+15:11:10.729 [main] INFO  com.mindtree.runner.validationAllofItPage - Clicking on 2nd Page
+15:11:17.913 [main] INFO  com.mindtree.runner.validationAllofItPage - Validating Current Page
+15:11:18.245 [main] INFO  com.mindtree.runner.validationAllofItPage - Successfully Navigated to 2nd Page
+15:47:12.437 [main] INFO  com.mindtree.runner.validationAllofItPage - Browser Opened
+15:47:21.890 [main] INFO  com.mindtree.runner.validationAllofItPage - Navigate to Url : https://www.bigsmall.in/
+15:47:21.902 [main] INFO  com.mindtree.runner.validationAllofItPage - Clicking on ALL OF IT in nav Bar
+15:47:27.926 [main] INFO  com.mindtree.runner.validationAllofItPage - Clicking on 2nd Page
+15:47:31.912 [main] INFO  com.mindtree.runner.validationAllofItPage - Validating Current Page
+15:47:32.090 [main] INFO  com.mindtree.runner.validationAllofItPage - Successfully Navigated to 2nd Page

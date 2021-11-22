@@ -1,0 +1,28 @@
+02:06:14.895 [main] INFO  com.mindtree.runner.NavigtionBar - Browser Opened
+02:07:42.843 [main] INFO  com.mindtree.runner.NavigtionBar - Navigate to Url : https://www.bigsmall.in/
+02:07:42.845 [main] INFO  com.mindtree.runner.NavigtionBar - Hovering On Shop By Category in NavBar
+02:07:43.016 [main] INFO  com.mindtree.runner.NavigtionBar - Hover performed successfully
+02:07:43.019 [main] INFO  com.mindtree.runner.NavigtionBar - Selecting Product category
+02:07:48.848 [main] INFO  com.mindtree.runner.NavigtionBar - Product Selected from Drop Down
+02:07:48.945 [main] INFO  com.mindtree.runner.NavigtionBar - Navigation Bar Validated Succefully
+02:47:14.436 [main] INFO  com.mindtree.runner.NavigtionBar - Browser Opened
+02:48:32.217 [main] INFO  com.mindtree.runner.NavigtionBar - Navigate to Url : https://www.bigsmall.in/
+02:48:32.218 [main] INFO  com.mindtree.runner.NavigtionBar - Hovering On Shop By Category in NavBar
+02:48:32.436 [main] INFO  com.mindtree.runner.NavigtionBar - Hover performed successfully
+02:48:32.437 [main] INFO  com.mindtree.runner.NavigtionBar - Selecting Product category
+02:48:38.946 [main] INFO  com.mindtree.runner.NavigtionBar - Product Selected from Drop Down
+02:48:39.212 [main] INFO  com.mindtree.runner.NavigtionBar - Navigation Bar Validated Succefully
+15:09:46.097 [main] INFO  com.mindtree.runner.NavigtionBar - Browser Opened
+15:10:04.590 [main] INFO  com.mindtree.runner.NavigtionBar - Navigate to Url : https://www.bigsmall.in/
+15:10:04.591 [main] INFO  com.mindtree.runner.NavigtionBar - Hovering On Shop By Category in NavBar
+15:10:04.824 [main] INFO  com.mindtree.runner.NavigtionBar - Hover performed successfully
+15:10:04.825 [main] INFO  com.mindtree.runner.NavigtionBar - Selecting Product category
+15:10:11.335 [main] INFO  com.mindtree.runner.NavigtionBar - Product Selected from Drop Down
+15:10:11.447 [main] INFO  com.mindtree.runner.NavigtionBar - Navigation Bar Validated Succefully
+15:46:29.319 [main] INFO  com.mindtree.runner.NavigtionBar - Browser Opened
+15:46:38.593 [main] INFO  com.mindtree.runner.NavigtionBar - Navigate to Url : https://www.bigsmall.in/
+15:46:38.594 [main] INFO  com.mindtree.runner.NavigtionBar - Hovering On Shop By Category in NavBar
+15:46:38.741 [main] INFO  com.mindtree.runner.NavigtionBar - Hover performed successfully
+15:46:38.741 [main] INFO  com.mindtree.runner.NavigtionBar - Selecting Product category
+15:46:43.906 [main] INFO  com.mindtree.runner.NavigtionBar - Product Selected from Drop Down
+15:46:43.974 [main] INFO  com.mindtree.runner.NavigtionBar - Navigation Bar Validated Succefully

@@ -1,0 +1,37 @@
+14:05:22.470 [main] INFO  com.mindtree.runner.validateLoginPage - Browser Opened
+14:05:43.801 [main] INFO  com.mindtree.runner.validateLoginPage - Navigate to Url : https://www.bigsmall.in/
+14:05:52.442 [main] INFO  com.mindtree.runner.validateLoginPage - clicked on HomeSignIn Button
+14:05:52.442 [main] INFO  com.mindtree.runner.validateLoginPage - navigated to Login Page
+14:05:52.442 [main] INFO  com.mindtree.runner.validateLoginPage - getting email addreess from excel and sending to username
+14:05:53.434 [main] INFO  com.mindtree.runner.validateLoginPage - getting password from excelSheet and sending to password
+14:05:53.669 [main] INFO  com.mindtree.runner.validateLoginPage - clicking on signButton
+02:00:21.056 [main] INFO  com.mindtree.runner.validateLoginPage - Browser Opened
+02:00:37.570 [main] INFO  com.mindtree.runner.validateLoginPage - Navigate to Url : https://www.bigsmall.in/
+02:00:52.252 [main] INFO  com.mindtree.runner.validateLoginPage - clicked on HomeSignIn Button
+02:00:52.252 [main] INFO  com.mindtree.runner.validateLoginPage - navigated to Login Page
+02:00:52.253 [main] INFO  com.mindtree.runner.validateLoginPage - getting email addreess from excel and sending to username
+02:00:53.271 [main] INFO  com.mindtree.runner.validateLoginPage - getting password from excelSheet and sending to password
+02:00:53.468 [main] INFO  com.mindtree.runner.validateLoginPage - clicking on signButton
+02:29:57.553 [main] INFO  com.mindtree.runner.validateLoginPage - Browser Opened
+02:38:07.434 [main] INFO  com.mindtree.runner.validateLoginPage - Browser Opened
+02:41:01.086 [main] INFO  com.mindtree.runner.validateLoginPage - Navigate to Url : https://www.bigsmall.in/
+02:41:08.882 [main] INFO  com.mindtree.runner.validateLoginPage - clicked on HomeSignIn Button
+02:41:08.883 [main] INFO  com.mindtree.runner.validateLoginPage - navigated to Login Page
+02:41:08.883 [main] INFO  com.mindtree.runner.validateLoginPage - getting email addreess from excel and sending to username
+02:41:10.652 [main] INFO  com.mindtree.runner.validateLoginPage - getting password from excelSheet and sending to password
+02:41:10.990 [main] INFO  com.mindtree.runner.validateLoginPage - clicking on signButton
+15:06:13.490 [main] INFO  com.mindtree.runner.validateLoginPage - Browser Opened
+15:06:32.483 [main] INFO  com.mindtree.runner.validateLoginPage - Navigate to Url : https://www.bigsmall.in/
+15:06:37.631 [main] INFO  com.mindtree.runner.validateLoginPage - clicked on SignIn Button
+15:06:37.632 [main] INFO  com.mindtree.runner.validateLoginPage - navigated to Login Page
+15:06:37.632 [main] INFO  com.mindtree.runner.validateLoginPage - getting email addreess from excel and sending to username
+15:06:39.448 [main] INFO  com.mindtree.runner.validateLoginPage - getting password from excelSheet and sending to password
+15:06:39.752 [main] INFO  com.mindtree.runner.validateLoginPage - clicking on signButton
+15:44:10.214 [main] INFO  com.mindtree.runner.validateLoginPage - Browser Opened
+15:44:18.876 [main] INFO  com.mindtree.runner.validateLoginPage - Navigate to Url : https://www.bigsmall.in/
+15:44:22.106 [main] INFO  com.mindtree.runner.validateLoginPage - clicked on SignIn Button
+15:44:22.106 [main] INFO  com.mindtree.runner.validateLoginPage - navigated to Login Page
+15:44:22.106 [main] INFO  com.mindtree.runner.validateLoginPage - getting email addreess from excel and sending to username
+15:44:22.692 [main] INFO  com.mindtree.runner.validateLoginPage - getting password from excelSheet and sending to password
+15:44:22.776 [main] INFO  com.mindtree.runner.validateLoginPage - clicking on signButton
+15:44:28.648 [main] INFO  com.mindtree.runner.validateLoginPage - Validation Login Page
